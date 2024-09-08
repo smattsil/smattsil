@@ -5,4 +5,4 @@
 - 💬 Ask me about **Jetpack Compose**
 - 📫 How to reach me: **@smattsil on IG**
 - 😄 Pronouns: **he**
-- ⚡ Fun fact: **Fun Fact!**
+- ⚡ Fun fact: **Did you know that I'm multilingual? I can speak English, Indonesian, and French fluently!**
