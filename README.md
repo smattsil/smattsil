@@ -1,8 +1,8 @@
 - 🔭 I’m currently working on [**almate**](https://github.com/smattsil/almate)
 - 🌱 I’m currently learning **Kotlin**
 - 👯 I’m looking to collaborate on **backend + FastAPI alma scraper**
-- 🤔 I’m looking for help with **UI design**
+- 🤔 I’m looking for help with **UI design** and **app architecture**
 - 💬 Ask me about **Jetpack Compose**
 - 📫 How to reach me: **@smattsil on IG**
-- 😄 Pronouns: **he**
-- ⚡ Fun fact: **Did you know that I'm multilingual? I can speak English, Indonesian, and French fluently!**
+- 😄 Pronouns: **him**
+- ⚡ Fun fact: **Did you know that I'm multilingual? I can speak English, Indonesian, Arabic, French, and Chinese fluently!**
